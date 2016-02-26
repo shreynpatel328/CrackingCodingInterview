@@ -2,7 +2,7 @@ package linkedList;
 
 import java.util.HashSet;
 import java.util.Iterator;
-/*
+
 class link
 {
 	int data;
@@ -83,4 +83,4 @@ public class removeDuplicates
 		System.out.println();
 	}
 }
-*/
+
